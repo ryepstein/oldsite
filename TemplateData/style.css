@@ -35,11 +35,12 @@ h2{
 	border-bottom: 1px solid #d0d0dd;
 	color: rgb(30,174,211);
 	position: relative;
-	left: 90%;
+	left: 75%;
 }
 p {
 	position: relative;
-	left: 90%;
+	left: 75%;
+	padding-left: 20px;
 }
 #description{
 margin-top: 300px;
