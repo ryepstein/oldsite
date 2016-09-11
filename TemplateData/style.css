@@ -32,15 +32,16 @@ h2{
 	--padding-top: 10px;
 	--padding-left: 20px;
 	line-height: 20px;
-	--border-bottom: 1px solid #d0d0dd;
+	border-bottom: 1px solid #d0d0dd;
 	color: rgb(30,174,211);
 	position: relative;
-	left: 40%;
+	left: 20%;
 }
 p {
 	position: relative;
-	left: 40%;
+	left: 20%;
 }
 #description{
 margin-top: 300px;
+width: 960px;
 }
