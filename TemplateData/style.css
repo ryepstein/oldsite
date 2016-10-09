@@ -28,7 +28,7 @@ body.template { }
 .template .template-wrap canvas { }
 
 #game{
-	position:absolute; top:50px; left:50px; z-index:2;
+	position:absolute; top:50px; left:50px; z-index:2
 	margin-top: 20px;
 	padding-top: 30px;
 }
