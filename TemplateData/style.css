@@ -27,6 +27,10 @@ body.template { }
 .template .template-wrap { }
 .template .template-wrap canvas { }
 
+#game{
+	margin-top: 20px;
+}
+
 h2{
 	font-size: 18px;
 	padding-top: 30px;
